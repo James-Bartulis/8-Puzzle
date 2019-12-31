@@ -1,7 +1,8 @@
-# 8-Puzzle
+# 8-Puzzle w/ AI Solver
 ![Example 1](Ex1.png)
 ![Example 2](Ex2.png)
 ![Example 3](Ex3.png)
+![Example 4](Ex4.png)
 
 # FAQ
 * [What is 8-Puzzle?](https://en.wikipedia.org/wiki/Sliding_puzzle)(Ctrl + click) the link
